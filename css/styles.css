@@ -24,13 +24,15 @@ h2 {
   height: 540px;
   float: left;
   margin: 20px 20px 10px 15px;
-  border: #3F4448 2px solid; 
+  border: #3F4448 2px solid;
+  box-shadow: 4px 4px 4px lightsteelblue;
 }
 
 #about {
   background-color: #808080;
   font-family: sans-serif;
   margin: 20px 20px 10px 15px;
+  box-shadow: 6px 6px 6px black;
 }
 
 .name {
@@ -41,18 +43,21 @@ h2 {
   background-color: #808080;
   font-family: sans-serif;
   margin: 20px 20px 10px 15px;
+  box-shadow: 6px 6px 6px black;
 }
 
 #work {
   background-color: #808080;
   font-family: sans-serif;
   margin: 20px 20px 10px 15px;  
+  box-shadow: 6px 6px 6px black;
 }
 
 #hobs {
   background-color: #808080;
   font-family: sans-serif;
-  margin: 20px 20px 10px 15px;  
+  margin: 20px 20px 10px 15px;
+  box-shadow: 6px 6px 6px black;
 }
 
 body div#hobs div p {
