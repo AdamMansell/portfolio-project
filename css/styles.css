@@ -80,7 +80,7 @@ body div#hobs div p {
     height: 180px;
     margin: 1px 5px 2px 3px;
     border: #3F4448 1px solid;
-    box-shadow: 2px 2px 2px lightsteelblue;
+    box-shadow: 1px 1px 1px lightsteelblue;
   }
 
   #about {
@@ -92,11 +92,11 @@ body div#hobs div p {
     box-shadow: 2px 2px 2px black;
   }
   body div#about h2 {
-    margin: 1px 1px 1px 1px;
+    margin: 1px 1px 5px 1px;
     font-size: 10px;
   }
   .card-body {
-    padding: 5px 5px 5px 5px;
+    padding: 1px 5px 5px 5px;
   }
 
   #back {
@@ -109,7 +109,25 @@ body div#hobs div p {
   }
 
   body div#back h2 {
-    margin: 1px 1px 1px 1px;
+    margin: 1px 1px 5px 1px;
     font-size: 10px;
+  }
+
+  #work {
+    background-color: #808080;
+    font-family: sans-serif;
+    font-size: 5px;
+    margin: 5px 5px 2.5px 3px;
+    padding: 1px 1px 1px 1px;
+    box-shadow: 2px 2px 2px black;
+  }
+
+  body div#work h2 {
+    margin: 1px 1px 5px 1px;
+    font-size: 10px;
+  }
+
+  body div#work ul {
+    padding-inline-start: 15px;
   }
 }
