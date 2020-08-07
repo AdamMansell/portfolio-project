@@ -4,9 +4,26 @@ body {
 
 .title {
   color: lightsteelblue;
+  font-size: 50px;
+  margin: 20px 20px 10px 15px;
+}
+
+.title-box {
+  border-bottom: lightsteelblue 2px solid;
 }
 
 #img {
   height: 500px;
   float: left;
+  margin: 20px 20px 10px 15px;
+}
+
+#about {
+  background-color: #808080;
+  margin: 20px 20px 10px 15px;
+}
+
+#back {
+  background-color: #808080;
+  margin: 20px 20px 10px 15px;
 }
